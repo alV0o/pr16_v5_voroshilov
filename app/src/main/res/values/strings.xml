@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pr16_v5_voroshilov</string>
+    <string-array name="figures_geometry">
+        <item>Треугольник</item>
+        <item>Прямоугольник</item>
+        <item>Круг</item>
+    </string-array>
+    <string name="calculate">Вычислить</string>
+</resources>
